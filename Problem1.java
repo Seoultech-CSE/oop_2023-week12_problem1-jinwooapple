@@ -2,7 +2,7 @@ import java.util.*;
 
 public class week13_1 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(Sys
 
         // 필요한 자료형을 넣어주세요
         ArrayList< __________ > list = new ArrayList< __________ >();
