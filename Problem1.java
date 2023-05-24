@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class week13_1 {
+public class Problem1 {
     static Pair[] arr=new Pair[10];
     public static void main(String[] args) 
     {
